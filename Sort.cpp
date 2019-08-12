@@ -36,6 +36,7 @@ int main(int argc, char *argv[])
    // int * op;
    // Op = &L;
    // Op = &S;
+// test
     cout<<"Parinkite sudetinguma [max](1),[min](2),[vid](3): ";
     cin>>s;
     if(s==1)
